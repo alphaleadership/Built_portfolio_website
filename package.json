@@ -1,0 +1,37 @@
+{
+  "name": "built_portfolio_website",
+  "version": "1.0.0",
+  "description": "How built a portfolio website using Next.js, Chakra UI, Framer Motion et Three.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next build",
+    "prettier" : "prettier -write .",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WolfyzDev/Built_portfolio_website.git"
+  },
+  "keywords": [],
+  "author": "WolfyzDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WolfyzDev/Built_portfolio_website/issues"
+  },
+  "homepage": "https://github.com/WolfyzDev/Built_portfolio_website#readme",
+  "dependencies": {
+    "@chakra-ui/react": "^2.2.1",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "framer-motion": "^6.3.11",
+    "next": "^12.1.6",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.17.0",
+    "eslint-config-next": "^12.1.6",
+    "prettier": "^2.6.2"
+  }
+}
