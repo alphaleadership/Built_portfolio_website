@@ -34,3 +34,6 @@ $PROJECT_ROOT
 
 ## 1. Create a new project & configure this project
 [Access markdown file](./docs/first_step_product.md)
+
+## 2. Create index page & integrate Chrakra UI
+[Access markdown file](./docs/second-setp-product.md)
