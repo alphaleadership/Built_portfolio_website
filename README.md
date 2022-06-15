@@ -30,6 +30,9 @@ $PROJECT_ROOT
 # Links
 [Access the video](https://youtu.be/bSMZgXzC9AA)
 
+# Statistic GitHub
+![Alt](https://repobeats.axiom.co/api/embed/653f9e7dbabdf97d7525adabd7f4d59972f226cb.svg "Repobeats analytics image")
+
 # Product
 
 ## 1. Create a new project & configure this project
